@@ -1,0 +1,5 @@
+C:\Users\Dusko\Downloads\2021 (1)\2021\final\Stats.Service.Tests\obj\Debug\net5.0\Stats.Service.Tests.csprojAssemblyReference.cache
+C:\Users\Dusko\Downloads\2021 (1)\2021\final\Stats.Service.Tests\obj\Debug\net5.0\Stats.Service.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dusko\Downloads\2021 (1)\2021\final\Stats.Service.Tests\obj\Debug\net5.0\Stats.Service.Tests.AssemblyInfoInputs.cache
+C:\Users\Dusko\Downloads\2021 (1)\2021\final\Stats.Service.Tests\obj\Debug\net5.0\Stats.Service.Tests.AssemblyInfo.cs
+C:\Users\Dusko\Downloads\2021 (1)\2021\final\Stats.Service.Tests\obj\Debug\net5.0\Stats.Service.Tests.csproj.CoreCompileInputs.cache
